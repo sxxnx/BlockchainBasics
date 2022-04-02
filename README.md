@@ -2,22 +2,23 @@
 Because I am tired of explaining blockchain to people I made this repo based on Coursera classes about blockchain
 
 Blockchain allows peer to peer transfer of digital assets without any intermediaries  
-- goods transfer (ex : supply chain)
-- digital media transfer (ex : sale of art)
-- remote services delivery (ex : travel & tourism)
-- decentralized business logic (ex : move computing to data sources)
-- distributed intelligence (ex : education credentialing)
-- distributed resources (ex : power generation and distribution)
-- crowd funding (ex : startup fund raising)
-- crowd operations (ex : electronic voting)
-- identity management (ex : one id for all your life's functions)
-- government public records (ex : open governing)
+
+- goods transfer (ex : supply chain)  
+- digital media transfer (ex : sale of art)  
+- remote services delivery (ex : travel & tourism)  
+- decentralized business logic (ex : move computing to data sources)  
+- distributed intelligence (ex : education credentialing)  
+- distributed resources (ex : power generation and distribution)  
+- crowd funding (ex : startup fund raising)  
+- crowd operations (ex : electronic voting)  
+- identity management (ex : one id for all your life's functions)  
+- government public records (ex : open governing)  
 **inclusive economy**  
 Opportunities for innovative applications are **endless**  
 
 ## Bitcoin
 
-1- Continuously workuing digital currency system
+1- Continuously workuing digital currency system  
 2- Model for autonomous decentralized application (blockchain)
 
 Satoshi Nakamoto introduced a new digital currency (cryptocurrency called Bitcoin) : enable peer to peer transfer of value without any central authority.  
@@ -27,12 +28,13 @@ Blockchain is establishing trust among unknown peers, recording the transaction 
 ### Centralized vs Decentralized network
 
 ex : a customer wants to buy an item using his credit card : how many intermediaries for accomplishing this ?  
-1- Credit card agency
-2- Customer bank
-3- Credit cards bank
-4- Exchange 
-5- Merchant's bank
-6- The merchant
+1- Credit card agency  
+2- Customer bank  
+3- Credit cards bank  
+4- Exchange  
+5- Merchant's bank  
+6- The merchant  
+
 This is the centralized system, how about a decentralized system ?  
 Peers can transact **directly** with each other, no matter their location. Peers are not necessarily known to each other.  
 But how is trust established among the peers ?   
